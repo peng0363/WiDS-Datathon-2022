@@ -7,5 +7,5 @@ The main goal is to use a dataset consisting of variables that describe building
 This competition was held on Kaggle. Data source link as below:   
 https://www.kaggle.com/c/widsdatathon2022/overview
 
-Inspired by Googl's WiDS Workshop:   
+Inspired by Google's WiDS Workshop:   
 https://github.com/michevan/WIDS-Google
